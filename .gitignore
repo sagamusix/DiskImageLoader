@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.vs
+Win32
+GeneratedFiles
+Debug
+Release
+*.user
+*.vc.db
+*.vc.opendb
